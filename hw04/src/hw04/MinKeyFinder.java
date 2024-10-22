@@ -7,7 +7,7 @@ import java.util.Collections;
  * Find the key associated with the minimum value in a binary tree using key value pairs.
  */
 public class MinKeyFinder implements CS232Visitor<String, Integer> {
-
+ 
 	private String minKey;
 	private int minValue;
 	private boolean firstNode;
