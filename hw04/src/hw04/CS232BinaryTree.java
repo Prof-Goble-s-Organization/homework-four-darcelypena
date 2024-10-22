@@ -6,7 +6,7 @@ package hw04;
  * @author Grant Braught
  * @author Dickinson College
  * 
- */
+ */  
 public interface CS232BinaryTree<K, V> {
 
 	/**
